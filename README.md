@@ -8,16 +8,17 @@
 	</div>
 	<div>
 		<br />
-		<p>Question codes approved in Beecrowd site using <b>JavaScript</b> syntax</p>
+		<p>Question codes approved in Beecrowd site using <b>JavaScript</b></p>
 	</div>
 </div>
 
 ## Solutions
 
-<!--
+
 | CATEGORY                                                        | DESCRIPTION                                                  | TOTAL PROBLEMS |
 | :-------------------------------------------------------------- | :----------------------------------------------------------- | :------------: |
-| [Beginner](/src/beginner)                                       | Basic problems for anyone who has just started to program... |      336       |
+| [Beginner](/beginner)                                       | Basic problems for anyone who has just started to program... |      336       | 
+<!--
 | [Ad-Hoc](/src/adhoc)                                            | Simulation Problems, Dates, Games and general Ad-Hoc...      |      771       |
 | [Strings](/src/strings)                                         | Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...  |      148       |
 | [Data Structures and Libraries](/src/structures)                | Queue, Stack, Sort, Map, Set...                              |      179       |
@@ -40,9 +41,8 @@
 
 </div>
 
-## References
-
 <!--
+## References
 | Link                                                                                     |                      Author                       | Type       |
 | :--------------------------------------------------------------------------------------- | :-----------------------------------------------: | :--------- |
 | [beecrowd-solutions](https://xtecna.gitbook.io/solucoes-da-beecrowd)                     |        [xTecna](https://github.com/xTecna)        | Gitbook    |
