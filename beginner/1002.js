@@ -11,3 +11,5 @@ Output: Present the message "A=" followed by the value of the variable, as in th
 
 var input = require("fs").readFileSync("/dev/stdin", "utf8");
 var lines = input.split("\n");
+
+var R = parseFloat(lines[0]);
